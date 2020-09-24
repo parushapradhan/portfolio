@@ -1,0 +1,29 @@
+{
+	"title" : "Projects",
+	"projects" : [
+		{
+			"icon" : "star-of-life",
+			"title" : "fullworm",
+			"description" : "Allows the user to ask a summary for the current status of the stock market, Stock prices, and Cryptocurrency valuation. It provides tables, graphs and predictions for any user queries related to stock market and cryptocurrencies.",
+			"tools" : "MERN | GraphQL | Firebase"
+		},
+		{
+			"icon" : "users",
+			"title" : "Student Registartion",
+			"description" : "Student Registration System uses an angular front end to retrieve data and hit REST API in the back end. ORM model for the student database is managed using hibernate using angular dynamic forms are made for student registration that sends the data to Rest API",
+			"tools" : "AngularJS | Hibernate | Spring"
+		},
+		{
+			"icon" : "tshirt",
+			"title" : "Virtual fitting room ",
+			"description" : "Maps 2d cloths on top of body in livefeed through webcam for an online shopping interface. implements haar cascade algorithm for face and body feature point detection. Created a bound box around the feature points to superimpose 2D clothes on top of a live video feed.",
+			"tools" : "Python | Haar Cascade | AWS"
+		},
+		{
+			"icon" : "search",
+			"title" : "Search Engine Application",
+			"description" : "Search Engine uses MongoDB as the database server to dynamically search fields from data scrapped from webpages online. python web scraper to collect data from various websites includes admin dashboard that allows you to modify the data based on content-id.",
+			"tools" : "Django | MongoDB | Firebase"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{{ $about := .Site.Data.about }}
+
+
+<section class="voilet">
+  <h2 class="heading text-light">{{ $about.title }}</h2>
+
+  <div class="row justify-content-md-center">
+
+    {{ range $index, $element := $about.about }}
+
+    <div class="col-12 col-lg-12 col-md-12 mb-3">
+      <div class="card p-4">
+        <h6 class="mt-4 mb-4">{{ $element.title }}</h5>
+        <p>{{ $element.description }}</p>
+        <hr></hr>
+        <h6 class="mt-2 mb-2">Education: </h5>
+        <dl class="row">
+          <dt class="col-sm-4">School</dt>
+          <dd class="col-sm-8">{{ $element.school }}</dd>
+          <dt class="col-sm-4">College</dt>
+          <dd class="col-sm-8">{{ $element.college }}</dd>
+        </dl>
+        <hr></hr>
+        <dl class="row">
+          <dt class="col-sm-4">Skills</dt>
+          <dd class="col-sm-8"><p class="text-muted">{{ $element.skills }}</p></dd>
+        </dl>
+        <dl class="row">
+          <dt class="col-sm-4">Langauges</dt>
+          <dd class="col-sm-8"><span class="badge badge-light text-muted">{{ $element.languages }}</span></dd>
+
+        </dl>
+      </div>
+    </div>
+    <div class="col-12 col-lg-12 col-md-12 mb-3">
+      <div class="card p-4">
+        <dl class="row">
+          <dt class="col-sm-4 mt-4">Resume</dt>
+          <dd class="col-sm-8 mt-4"><a target="_blank" href="https://drive.google.com/file/d/1Xb0gDt41L2_FMKmQQOjXNc2c64Xb9w3u/view?usp=sharing" download="">Download</a></dd>
+        </dl>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>

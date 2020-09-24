@@ -1,0 +1,11 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "June 2019 - August 2019",
+			"company" : "F1Soft International Pvt. Ltd.",
+			"title": "Web Developer Intern",
+			"description" : "Working in a Scrum framework. Creating forms with angular 6. Creating restful API for CRUD operations. Assisted in scrum repository and sprint planning."
+		}
+	]
+}

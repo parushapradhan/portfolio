@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "parusha"
+author = "parusha pradhan"
+theme = "hugo-uilite"

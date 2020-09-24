@@ -1,0 +1,18 @@
+{
+	"title" : "About",
+	"about" : [
+		{
+			"icon" : "smile-wink",
+			"resume": "  Resume",
+			"title" : "in-short",
+			"description" : "Nice to meet you! I am a web developer that loves to be challenged to think outside the box. Being part of the new creation of technologies that help people has been a dream of mine since I was a kid. And a good responsive website is the way to my heart 😊.",
+
+			"school" : "  Graded English Medium School, Kathmandu.",
+			"college" : "  Nitte Meenakshi Institute of Technology, Bengaluru",
+
+			"languages" : "English, Hindi",
+			"skills" : "ReactJS | Hibernate | MongoDB | NodeJS",
+			"displayPicture" : "deyalla.png"
+		}
+	]
+}
