@@ -4,7 +4,7 @@
 		{
 			"icon" : "star-of-life",
 			"title" : "fullworm",
-			"description" : "A team project management system that allows team members to chat,transfer documents and log in daily tasks and time estimates of the project",
+			"description" : "A team project management system that allows team members to chat,transfer documents in real time.Log in daily tasks and time estimates of the project.Allows you to bring digital transformation to organization and employees",
 			"tools" : "Reactjs | Springboot | AWS"
 		},
 		{
