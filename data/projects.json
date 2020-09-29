@@ -4,20 +4,20 @@
 		{
 			"icon" : "star-of-life",
 			"title" : "fullworm",
-			"description" : "Allows the user to ask a summary for the current status of the stock market, Stock prices, and Cryptocurrency valuation. It provides tables, graphs and predictions for any user queries related to stock market and cryptocurrencies.",
-			"tools" : "MERN | GraphQL | Firebase"
+			"description" : "A team project management system that allows team members to chat,transfer documents and log in daily tasks and time estimates of the project",
+			"tools" : "Reactjs | Springboot | AWS"
 		},
 		{
 			"icon" : "users",
-			"title" : "Student Registartion",
+			"title" : "Student School Registartion",
 			"description" : "Student Registration System uses an angular front end to retrieve data and hit REST API in the back end. ORM model for the student database is managed using hibernate using angular dynamic forms are made for student registration that sends the data to Rest API",
-			"tools" : "AngularJS | Hibernate | Spring"
+			"tools" : "AngularJS | Hibernate | Springboot"
 		},
 		{
 			"icon" : "tshirt",
 			"title" : "Virtual fitting room ",
 			"description" : "Maps 2d cloths on top of body in livefeed through webcam for an online shopping interface. implements haar cascade algorithm for face and body feature point detection. Created a bound box around the feature points to superimpose 2D clothes on top of a live video feed.",
-			"tools" : "Python | Haar Cascade | AWS"
+			"tools" : "Python | OpenCV | AWS | Reactjs | Flask"
 		},
 		{
 			"icon" : "search",
